@@ -14,7 +14,7 @@
   height: 900px;
   color: white;
 
-  background-image: url(/img/Rectangle.jpg);
+  background-image: url(./img/Rectangle.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
