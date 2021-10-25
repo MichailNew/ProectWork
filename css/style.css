@@ -30,8 +30,11 @@
 
   text-align: center;
 }
-
 .btn {
+  width: 200px;
+  height: 45px;
+  border-radius: 30px;
+  margin-bottom: 30px;
   margin-top: 40px;
 }
 
@@ -45,13 +48,6 @@
 
 .services p {
   text-align: left !important;
-}
-
-.btn {
-  width: 200px;
-  height: 45px;
-  border-radius: 30px;
-  margin-bottom: 30px;
 }
 
 .about-us {
@@ -166,7 +162,6 @@ article ul {
   body {
     font-size: 20px;
   }
-
   .container-standards {
     flex-direction: column;
   }
@@ -184,7 +179,6 @@ article ul {
     width: 100%;
   }
 }
-
 @media (max-width: 320px) {
   body {
     font-size: 20px;
